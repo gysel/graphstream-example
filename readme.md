@@ -1,0 +1,1 @@
+This is a small test of the clustering algorithm of the [GraphStream](http://graphstream-project.org/) library.
